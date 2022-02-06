@@ -1,2 +1,2 @@
 # linearalgebra
-linearalgebra tutorials inspired by perldoc.
+linearalgebra notes/tutorials inspired by perldoc.
